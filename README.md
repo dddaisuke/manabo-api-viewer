@@ -1,0 +1,4 @@
+manabo-api-viewer
+=================
+
+manaboのAPIをpreviewするためのiPadアプリです。
